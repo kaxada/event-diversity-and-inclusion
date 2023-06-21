@@ -27,6 +27,7 @@ Four statuses exist for the Diversity and Inclusion Event Badging:
 # Badges Granted: Version 3
 Date        | Event name                                       | Badge              |Reviewers  |Application Issue link                                            |
 ------------|-------------------------------------------------------------|---------|---------|-------------------------------------------------------------------|
+Jun-21-2023 | [seL4 Summit 2023](https://events.linuxfoundation.org/sel4-summit/) | ![Silver] |  [@germonprez](https://github.com/germonprez), [@kaxada](https://github.com/kaxada) | https://github.com/kaxada/event-diversity-and-inclusion/issues/49 
 Mar-24-2023 | [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | ![Pending] |  [@kaxada](https://github.com/kaxada) | https://github.com/kaxada/event-diversity-and-inclusion/issues/47 
 Mar-24-2023 | [KubeCon + CloudNativeCon Europe 2023](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | ![Gold] |  [@germonprez](https://github.com/germonprez), [@kaxada](https://github.com/kaxada) | https://github.com/kaxada/event-diversity-and-inclusion/issues/46 
 Mar-14-2023 | [Open Source Summit North America](undefined) | ![Gold] |  [@Ruth-ikegah](https://github.com/Ruth-ikegah), [@Anita-ihuman](https://github.com/Anita-ihuman) | https://github.com/badging/event-diversity-and-inclusion/issues/230 
